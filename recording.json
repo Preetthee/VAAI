@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "filename": "recording_1-2025-07-10_16-01-03.wav",
+    "date": "2025-07-10T16:01:03",
+    "path": "E:\\VS code\\AI\\recording_1-2025-07-10_16-01-03.wav",
+    "size_bytes": 1226938,
+    "duration_seconds": 3.477551020408163
+  },
+  {
+    "id": 2,
+    "filename": "recording_2-2025-07-10_16-01-08.wav",
+    "date": "2025-07-10T16:01:08",
+    "path": "E:\\VS code\\AI\\recording_2-2025-07-10_16-01-08.wav",
+    "size_bytes": 1063354,
+    "duration_seconds": 3.0138775510204083
+  },
+  {
+    "id": 3,
+    "filename": "recording_3-2025-07-10_16-01-13.wav",
+    "date": "2025-07-10T16:01:13",
+    "path": "E:\\VS code\\AI\\recording_3-2025-07-10_16-01-13.wav",
+    "size_bytes": 1045178,
+    "duration_seconds": 2.962358276643991
+  },
+  {
+    "id": 4,
+    "filename": "recording_4-2025-07-10_16-01-37.wav",
+    "date": "2025-07-10T16:01:37",
+    "path": "E:\\VS code\\AI\\recording_4-2025-07-10_16-01-37.wav",
+    "size_bytes": 1199674,
+    "duration_seconds": 3.4002721088435375
+  },
+  {
+    "id": 5,
+    "filename": "recording_5-2025-07-10_16-01-42.wav",
+    "date": "2025-07-10T16:01:42",
+    "path": "E:\\VS code\\AI\\recording_5-2025-07-10_16-01-42.wav",
+    "size_bytes": 1290554,
+    "duration_seconds": 3.6578684807256234
+  },
+  {
+    "id": 6,
+    "filename": "recording_6-2025-07-10_16-12-09.wav",
+    "date": "2025-07-10T16:12:09",
+    "path": "E:\\VS code\\AI\\recording_6-2025-07-10_16-12-09.wav",
+    "size_bytes": 2408378,
+    "duration_seconds": 6.826303854875284
+  },
+  {
+    "id": 7,
+    "filename": "recording_7-2025-07-10_16-14-36.wav",
+    "date": "2025-07-10T16:14:36",
+    "path": "E:\\VS code\\AI\\recording_7-2025-07-10_16-14-36.wav",
+    "size_bytes": 1835834,
+    "duration_seconds": 5.203446712018141
+  },
+  {
+    "id": 8,
+    "filename": "recording_8-2025-07-10_16-20-46.wav",
+    "date": "2025-07-10T16:20:46",
+    "path": "E:\\VS code\\AI\\assets\\records\\recording_8-2025-07-10_16-20-46.wav",
+    "size_bytes": 1953978,
+    "duration_seconds": 5.538321995464853
+  },
+  {
+    "id": 9,
+    "filename": "recording_9-2025-07-10_16-23-39.wav",
+    "date": "2025-07-10T16:23:39",
+    "path": "E:\\VS code\\AI\\assets\\records\\recording_9-2025-07-10_16-23-39.wav",
+    "size_bytes": 1817658,
+    "duration_seconds": 5.1519274376417235
+  }
+]
